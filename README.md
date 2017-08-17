@@ -33,10 +33,7 @@
 
 ![](https://i.loli.net/2017/07/20/59701f1d59c22.jpg)
 
-material 不能使用第三方组件，费了好大劲加上了富文本
 
-
-![](https://i.loli.net/2017/07/20/59707e4d15d78.jpg)
 
 
 
